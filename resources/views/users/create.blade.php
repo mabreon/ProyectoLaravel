@@ -23,12 +23,12 @@
 
                 <div class="form-group">
                     <label for="name">Nombre:</label>
-                    <input type="text" class="form-control" name="name" id="name" placeholder="Pedro Perez" value="{{ old('name') }}">
+                    <input type="text" class="form-control" name="name" id="name" placeholder="Maximo " value="{{ old('name') }}">
                 </div>
 
                 <div class="form-group">
                     <label for="email">Correo electrónico:</label>
-                    <input type="email" class="form-control" name="email" id="email" placeholder="pedro@example.com" value="{{ old('email') }}">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="maximo@example.com" value="{{ old('email') }}">
                 </div>
 
                 <div class="form-group">
